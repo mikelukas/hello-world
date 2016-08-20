@@ -1,3 +1,3 @@
 # hello-world
 
-Experiments for increasing Git and GitHub knowledge
+Using this repo for learning more about Git and GitHub.
