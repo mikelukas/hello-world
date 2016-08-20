@@ -1,2 +1,2 @@
 # hello-world
-Experiments for increasing Git knowledge
+Using this repo for learning more about Git.
